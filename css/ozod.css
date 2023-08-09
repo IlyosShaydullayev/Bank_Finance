@@ -5,7 +5,7 @@ body{
 .card-desktop{
     position: absolute;
     top: 130px;
-    left: 135px;
+    left: 85px;
 }
 .card-tab{
     display: none;
@@ -15,8 +15,8 @@ body{
 }
 .o-expenses{
     position: absolute;
-    top: 415px;
-    left: 195px;
+    top: 395px;
+    left: 145px;
     display: flex;
 width: 445px;
 height: 730px;
