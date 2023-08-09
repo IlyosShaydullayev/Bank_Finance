@@ -1,0 +1,122 @@
+.header{
+    display: flex;
+max-width: 1600px;
+margin-left: auto;
+margin-right: auto;
+justify-content: space-around;
+padding: 20px 25px;
+flex-wrap: wrap;
+align-items:center ;
+border: 0.5px solid rgba(237, 239, 242, 1);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    display: flex;
+    width: 181px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.nav2{
+    display: flex;
+    width: 420px;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav3{
+    display: flex;
+    width: 273px;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-input{
+    display: flex;
+    width: 298px;
+    height: 60px;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-radius: 30px;
+    box-shadow: 0.1px 0.1px;
+    text-align: center;
+    align-items: center;
+}
+.nav-input p{
+    width: 198px;
+    color: var(--gray-blue-grey-blue-80, #ADB8CC);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Bold/Bold 12 */
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px; /* 166.667% */
+}
+.header img{
+    width: 30px;
+    height: 30px;
+}
+.nav-img1{
+    width: 30px;
+    height: 30px;
+}
+.header img{
+}
+.nav1 a{
+    color: var(--gray-blue-grey-blue-50, #4D5E80);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Bold/Bold 18 */
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 166.667% */
+text-decoration: none;
+}
+.nav2{
+    color: var(--gray-blue-grey-blue-70, #7D8FB3);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Bold/Bold 13 */
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: 25px; /* 192.308% */
+}
+.nav3 p{
+    width: 88px;
+    color: var(--gray-blue-grey-blue-60, #6B7A99);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Bold/Bold 13 */
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: 25px; /* 192.308% */
+}
+main {
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-bir{
+    width: 50px;
+    height: 400px;
+    border: 1px solid rgba(237, 239, 242, 1);
+    justify-content: space-around;
+}
+.main-bir div{
+    width: 50px;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    border-color: rgb(180, 176, 176);
+}
+
