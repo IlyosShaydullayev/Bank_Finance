@@ -105,6 +105,7 @@ line-height: 25px; /* 192.308% */
 main {
     margin-left: auto;
     margin-right: auto;
+    height: 1074px;
 }
 .main-bir{
     width: 50px;
@@ -119,4 +120,8 @@ main {
     border-radius: 50%;
     border-color: rgb(180, 176, 176);
 }
-
+.erali{
+    width: 50px;
+    height: 304px;
+    margin-top: 320px;
+}
